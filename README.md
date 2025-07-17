@@ -114,7 +114,7 @@ jupyter notebook Apple_Stock_Forecasting.ipynb
 
 | 50 & 200-Day Moving Average          | Fourier components                   |
 |--------------------------------------|--------------------------------------|
-| ![50 & 200-Day Moving Average](assets/50_200_MA.png) | ![Fourier](assets/fourier.png) |
+| ![50 & 200-Day Moving Average](assets/50_200_MA.png) | ![Fourier](assets/Fourier.png) |
 
 | Year-wise Boxplot of Weekly Returns  | Price + Moving Averages + Bollinger Bands, MACD and Momentum, Relative Strength Index (RSI)   |
 |--------------------------------------|--------------------------------------|
